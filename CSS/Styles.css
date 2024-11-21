@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Magic_Cards";
+    src: url(../Magic_Cards/MAGIC_CA.ttf) format('truetype');
+}
+
+h1, h2, h3 {
+    font-family: "Magic_Cards";
+    padding: 10px;
+}
+
+.bg-color{
+    background-color: #564233;
+    background-image: url(../Images/bal_ur_lord_zarcon.png), url(../Images/ashlander-yurt-mentha.jpg);
+    background-position: top, bottom;
+    background-repeat: no-repeat;
+}
+
+.color {
+    color: #DFB69E;
+}
