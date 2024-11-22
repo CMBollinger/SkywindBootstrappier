@@ -18,3 +18,15 @@ h1, h2, h3 {
 .color {
     color: #DFB69E;
 }
+
+a {
+    color: #DFB69E !important;
+}
+
+footer {
+    background-color: #856957;
+    height: 84px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 12px;
+}
